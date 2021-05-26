@@ -144,3 +144,6 @@ if __name__ == '__main__':
     test_pat = "../data/test.csv"
     outtest_path = "..data/test/export_data.csv"
     train_model(train_path, output_path)
+"""
+Dit me cm 
+"""
